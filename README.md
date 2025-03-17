@@ -27,3 +27,10 @@ See https://web3.storage/docs/how-to/upload/#bring-your-own-delegations for
 `w3up-*` credentials.
 
 For `w3name-*`, use a script like [scripts/w3name.js](./scripts/w3name.js).
+
+## Publishing
+
+```bash
+$ npx np
+```
+
