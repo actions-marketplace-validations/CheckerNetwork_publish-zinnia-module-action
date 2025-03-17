@@ -31,6 +31,6 @@ For `w3name-*`, use a script like [scripts/w3name.js](./scripts/w3name.js).
 ## Publishing
 
 ```bash
-$ npx np
+$ npm run release
 ```
 
