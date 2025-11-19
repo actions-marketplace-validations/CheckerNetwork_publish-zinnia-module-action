@@ -26,7 +26,7 @@
     "@web3-storage/access": "^20.3.0",
     "@web3-storage/w3up-client": "^17.3.0",
     "files-from-path": "^1.1.4",
-    "w3name": "^1.0.9"
+    "w3name": "^1.1.3"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.38.3",
